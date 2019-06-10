@@ -4,7 +4,10 @@
  */
 public class GitTest {
     public static void main(String[] args) {
+        //dev2
         System.out.println("dev 分支");
         System.out.println("dev 分支");
+        System.out.println("dev 分支2");
+        System.out.println("dev 分支2");
     }
 }
