@@ -12,5 +12,6 @@ public class GitTest {
 	System.out.println("DESK_ADD_MID");
         //DESK mod oneline
         System.out.println("add new change");
+	System.out.println("DESK ADD");
     }
 }
