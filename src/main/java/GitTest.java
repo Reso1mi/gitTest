@@ -9,8 +9,8 @@ public class GitTest {
         System.out.println("dev 分支");
         System.out.println("dev 分支2");
         System.out.println("dev 分支2");
-
-        //
+	System.out.println("DESK_ADD_MID");
+        //DESK mod oneline
         System.out.println("add new change");
     }
 }
